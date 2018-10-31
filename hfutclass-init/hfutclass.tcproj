@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<Project>
+<ProjInfo>
+<EnterFile>hfutclass.t</EnterFile>
+<Language>1</Language>
+<Version>7.0</Version>
+<ExeIco/>
+<Platform>pc</Platform>
+</ProjInfo>
+<DesignInfo>
+<LockedCtrl></LockedCtrl>
+</DesignInfo>
+<VersionInfo>
+<ProductName>hfutclass</ProductName>
+<FileDescription>hfutclass</FileDescription>
+<InternalName>hfutclass</InternalName>
+<CompanyName>776a68</CompanyName>
+<FileVersion>1.0.0.0</FileVersion>
+<ProductVersion>1.0.0.0</ProductVersion>
+<LegalCopyright>(C)&lt;776a68&gt;保留所有版权</LegalCopyright>
+</VersionInfo>
+</Project>
